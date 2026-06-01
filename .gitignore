@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+myenv/
+venv/
+env/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Data + artifacts
+persistence/
+*.db
+*.sqlite
+*.joblib
+*.pickle
+
+# Python packaging
+dist/
+build/
+
+# Logs
+*.log
