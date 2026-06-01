@@ -16,7 +16,7 @@ Thumbs.db
 .DS_Store
 
 # Data + artifacts
-persistence/
+!persistence/clustering_results.db
 *.db
 *.sqlite
 *.joblib
