@@ -16,11 +16,11 @@ Thumbs.db
 .DS_Store
 
 # Data + artifacts
-!persistence/clustering_results.db
 *.db
 *.sqlite
 *.joblib
 *.pickle
+!persistence/clustering_results.db
 
 # Python packaging
 dist/
